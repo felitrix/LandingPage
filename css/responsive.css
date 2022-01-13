@@ -1,0 +1,92 @@
+/*responsive design*/
+@media screen and (max-width: 480px) and (min-width: 360px) {
+
+    /*nav*/
+    .cabecalho {
+        padding: 5px;
+    }
+
+    /*menu logo*/
+    .cabecalho-imagem {
+        height: 36px;
+        width: 36px;
+    }
+
+    /*menu*/
+    .cabecalho-menu {
+        gap: 8px;
+        letter-spacing: 0.2px;
+    }
+
+    /*menu item*/
+    .cabecalho-menu-item {
+        font-weight: 500;
+        font-size: 10px;
+    }
+
+    /*conteudo*/
+    .conteudo {
+        margin-bottom: 24px;
+    }
+
+    /*conteudo principal*/
+    .conteudo-principal {
+        height: 50vh;
+    }
+
+    .conteudo-principal-escrito {
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+    }
+
+    /*title*/
+    .conteudo-principal-escrito-titulo {
+        font-size: 26px;
+        line-height: 1.2;
+    }
+
+    /*subtitle*/
+    .conteudo-principal-escrito-subtitulo {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    /*button*/
+    .conteudo-principal-escrito-botao {
+        width: 85px;
+        height: 27.5px;
+        font-size: 10px;
+    }
+
+    /*imagem*/
+    .conteudo-principal-imagem {
+        height: 200px;
+    }
+
+    /*conteudo secundario*/
+    .conteudo-secundario {
+        gap: 12px;
+        margin-top: 28px;
+
+    }
+
+    /*titulo*/
+    .conteudo-secundario-titulo {
+        padding-top: 28px;
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    /*paragrafo*/
+    .conteudo-secundario-paragrafo {
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    /*rodape*/
+    .rodape-imagem {
+        height: 24px;
+    }
+
+}
