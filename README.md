@@ -5,7 +5,7 @@ Este projeto é de fonte um vídeo da [Rafaella Ballerini ](https://youtu.be/llF
 Recomendo utilizar este projeto para melhorar habilidades de CSS e HTML e se divertir.
 ## Screenshots
 
-![Site screenshot](https://files.catbox.moe/mrezee.png)
+![Site screenshot](https://files.catbox.moe/a0aqr5.png)
 
 
 ## Contribuir
